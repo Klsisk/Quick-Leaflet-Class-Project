@@ -3,7 +3,7 @@
 ## Citi Bike
 We will utilize the Citi Bike API in order to retrieve the statuses and locations of all of the Citi Bike stations in New York. It's highly recommended to complete the Basic Version before attempting the Advanced Version.
 
-#Instructions
+# Instructions
 - Use the Citi Bike Station Information Endpoint to retrieve information about station names and locations. Take a moment to study the data sent back by the endpoint in your browser.
   - Each object in the stations array has station_id, name, capacity, lat, and lon properties.
   - The logic.js file in the skeleton folder contains coordinates that can be used to position a Leaflet map over New York City.
