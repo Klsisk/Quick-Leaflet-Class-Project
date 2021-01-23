@@ -19,3 +19,5 @@ We will utilize the Citi Bike API in order to retrieve the statuses and location
 - Perform a GET request using D3 to the Citi Bike Station Information Endpoint that will call the createMarkers function.
 
 - Remember to pass in your unique Mapbox token.
+
+![image](https://user-images.githubusercontent.com/69765842/105607689-46c47d00-5d6e-11eb-9604-6fb9118fd1f2.png)
