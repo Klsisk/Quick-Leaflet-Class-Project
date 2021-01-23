@@ -1,7 +1,7 @@
 # Quick Leaflet Class Project
 
 ## Citi Bike
-A large part of this class is going to be devoted to working on a mini-project in Leaflet. We will utilize the Citi Bike API in order to retrieve the statuses and locations of all of the Citi Bike stations in New York. It's highly recommended to complete the Basic Version before attempting the Advanced Version.
+We will utilize the Citi Bike API in order to retrieve the statuses and locations of all of the Citi Bike stations in New York. It's highly recommended to complete the Basic Version before attempting the Advanced Version.
 
 #Instructions
 - Use the Citi Bike Station Information Endpoint to retrieve information about station names and locations. Take a moment to study the data sent back by the endpoint in your browser.
